@@ -1,0 +1,381 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CLASS PROJECT
+</name>
+</assembly>
+<members>
+<member name="T:CLASS_PROJECT.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:CLASS_PROJECT.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:CLASS_PROJECT.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSet.CoursesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSet.FeesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSet.LecturerDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSet.StudentsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSet.TimetableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSet.CoursesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSet.FeesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSet.LecturerRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSet.StudentsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSet.TimetableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSet.CoursesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSet.FeesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSet.LecturerRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSet.StudentsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSet.TimetableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSetTableAdapters.CoursesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSetTableAdapters.FeesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSetTableAdapters.LecturerTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSetTableAdapters.StudentsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSetTableAdapters.TimetableTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:CLASS_PROJECT.CLASSDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(CLASS_PROJECT.CLASSDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:CLASS_PROJECT.CLASSDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(CLASS_PROJECT.CLASSDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:CLASS_PROJECT.CLASSDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(CLASS_PROJECT.CLASSDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:CLASS_PROJECT.CLASSDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:CLASS_PROJECT.CLASSDataSetTableAdapters.TableAdapterManager.UpdateAll(CLASS_PROJECT.CLASSDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSet1.CoursesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSet1.FeesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSet1.LecturerDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSet1.StudentsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSet1.TimetableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSet1.CoursesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSet1.FeesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSet1.LecturerRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSet1.StudentsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSet1.TimetableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSet1.CoursesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSet1.FeesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSet1.LecturerRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSet1.StudentsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSet1.TimetableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSet1TableAdapters.CoursesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSet1TableAdapters.FeesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSet1TableAdapters.LecturerTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSet1TableAdapters.StudentsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSet1TableAdapters.TimetableTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:CLASS_PROJECT.CLASSDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(CLASS_PROJECT.CLASSDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:CLASS_PROJECT.CLASSDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(CLASS_PROJECT.CLASSDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:CLASS_PROJECT.CLASSDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(CLASS_PROJECT.CLASSDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:CLASS_PROJECT.CLASSDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:CLASS_PROJECT.CLASSDataSet1TableAdapters.TableAdapterManager.UpdateAll(CLASS_PROJECT.CLASSDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.CLASSDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.loginsystem1DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.loginsystem1DataSet.loginDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.loginsystem1DataSet.loginRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.loginsystem1DataSet.loginRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.loginsystem1DataSetTableAdapters.loginTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.loginsystem1DataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:CLASS_PROJECT.loginsystem1DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(CLASS_PROJECT.loginsystem1DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:CLASS_PROJECT.loginsystem1DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(CLASS_PROJECT.loginsystem1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:CLASS_PROJECT.loginsystem1DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(CLASS_PROJECT.loginsystem1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:CLASS_PROJECT.loginsystem1DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:CLASS_PROJECT.loginsystem1DataSetTableAdapters.TableAdapterManager.UpdateAll(CLASS_PROJECT.loginsystem1DataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.loginsystem1DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:CLASS_PROJECT.loginsystem1DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

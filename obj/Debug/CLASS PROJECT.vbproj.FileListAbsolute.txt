@@ -1,0 +1,20 @@
+C:\Users\ADMIN\source\repos\CLASS PROJECT\CLASS PROJECT\bin\Debug\CLASS.accdb
+C:\Users\ADMIN\source\repos\CLASS PROJECT\CLASS PROJECT\bin\Debug\CLASS PROJECT.exe.config
+C:\Users\ADMIN\source\repos\CLASS PROJECT\CLASS PROJECT\bin\Debug\CLASS PROJECT.exe
+C:\Users\ADMIN\source\repos\CLASS PROJECT\CLASS PROJECT\bin\Debug\CLASS PROJECT.pdb
+C:\Users\ADMIN\source\repos\CLASS PROJECT\CLASS PROJECT\bin\Debug\CLASS PROJECT.xml
+C:\Users\ADMIN\source\repos\CLASS PROJECT\CLASS PROJECT\obj\Debug\CLASS PROJECT.vbprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\CLASS PROJECT\CLASS PROJECT\obj\Debug\CLASS_PROJECT.Form1.resources
+C:\Users\ADMIN\source\repos\CLASS PROJECT\CLASS PROJECT\obj\Debug\CLASS_PROJECT.Form2.resources
+C:\Users\ADMIN\source\repos\CLASS PROJECT\CLASS PROJECT\obj\Debug\CLASS_PROJECT.Form3.resources
+C:\Users\ADMIN\source\repos\CLASS PROJECT\CLASS PROJECT\obj\Debug\CLASS_PROJECT.Form4.resources
+C:\Users\ADMIN\source\repos\CLASS PROJECT\CLASS PROJECT\obj\Debug\CLASS_PROJECT.Form5.resources
+C:\Users\ADMIN\source\repos\CLASS PROJECT\CLASS PROJECT\obj\Debug\CLASS_PROJECT.Form6.resources
+C:\Users\ADMIN\source\repos\CLASS PROJECT\CLASS PROJECT\obj\Debug\CLASS_PROJECT.Form7.resources
+C:\Users\ADMIN\source\repos\CLASS PROJECT\CLASS PROJECT\obj\Debug\CLASS_PROJECT.Resources.resources
+C:\Users\ADMIN\source\repos\CLASS PROJECT\CLASS PROJECT\obj\Debug\CLASS PROJECT.vbproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\CLASS PROJECT\CLASS PROJECT\obj\Debug\CLASS PROJECT.vbproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\CLASS PROJECT\CLASS PROJECT\obj\Debug\CLASS PROJECT.exe
+C:\Users\ADMIN\source\repos\CLASS PROJECT\CLASS PROJECT\obj\Debug\CLASS PROJECT.xml
+C:\Users\ADMIN\source\repos\CLASS PROJECT\CLASS PROJECT\obj\Debug\CLASS PROJECT.pdb
+C:\Users\ADMIN\source\repos\CLASS PROJECT\CLASS PROJECT\bin\Debug\loginsystem1.accdb
